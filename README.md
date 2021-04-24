@@ -17,7 +17,7 @@ Para o Back-end usei as tecnologias:
 - MongoDb
 - Jest
 
-O Front-end foi hospedado no Heroku: ```http://geekhunter-test.vercel.app/```
+O Front-end foi hospedado no Heroku: ```https://geekhuntertest-api.vercel.app/```
 
 O Back-end foi hospedado no Heroku: ```https://geekhuntertest-api.herokuapp.com/```
 
